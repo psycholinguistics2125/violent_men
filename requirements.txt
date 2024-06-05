@@ -1,0 +1,8 @@
+pandas
+docx
+openpyxl
+tables
+pinguouin
+seaborn
+prince==0.7.1
+spacy==3.5.4

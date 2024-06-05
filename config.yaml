@@ -1,0 +1,9 @@
+data :
+  folder : "/home/robin/Data/Etude_telma"
+  canva_file: "Canevas d'entretien.pdf"
+  interview_folder: "entretiens"
+  quebec_interview_folder : "entretiens_quebec"
+  metadata_file: "20240227_metadata.csv"
+  text_database: "20240227_text_database.h5"
+  features_folder: "features_files/francais_et_quebec"
+  nlp_folder: "nlp_files/francais_et_quebec"
