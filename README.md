@@ -28,7 +28,7 @@ pip install -r requirements.txt
 3. Run the notebook reproduce_results.ipynb
 
 
-## Investigating the pre-processinf steps
+## Investigating the pre-processing steps
 
 The pre-processing steps are detailed in the notebook: main_preprocessing.py file. As the only data made publicly available is the ananymized data, the file is here only to satisfy the curiosity of the reader.
 
