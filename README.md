@@ -1,4 +1,4 @@
-# violent_men
+# Violent Men
 This repository is associated with the analysis of the discourse from violent men. It is mainly design to reproduce the results presented in the paper: 
 > "A psycholinguistic study of the traumatic discourse used by intimate partners violence"
 
